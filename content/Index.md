@@ -1,5 +1,4 @@
 ---
-title: Welcome to Mantek
-publish: true
+title: Howdy
 ---
 Hello, world!
